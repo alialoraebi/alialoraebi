@@ -4,7 +4,7 @@
 
 🎓 Studying: Computer Science with a passion for solving complex problems and learning new technologies.
 
-💼 Occupation: IT Repair Technician - Fixing and improving tech gadgets daily.
+💼 Occupation: IT Repair Technician - Fixing and improving tech gadgets.
 
 ♟️ Skills: Java, Spring, HTML, CSS, JavaScript, C#, React, Node.js, Docker, MySQL, MongoDB, Git, GitHub
 

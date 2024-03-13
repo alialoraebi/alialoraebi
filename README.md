@@ -2,7 +2,7 @@
 
 📍 Location: Oakville, Ontario, Canada
 
-🎓 Studying: Computer Science with a passion for solving complex problems and learning new technologies.
+🎓 Studying: Computer Programming and Analysis @ George Brown College.
 
 💼 Occupation: IT Repair Technician - Fixing and improving tech gadgets.
 

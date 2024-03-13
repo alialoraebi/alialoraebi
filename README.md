@@ -4,7 +4,7 @@
 
 🎓 Studying: Computer Programming and Analysis @ George Brown College.
 
-💼 Occupation: IT Repair Technician - Fixing and improving tech gadgets.
+💼 Occupation: IT Repair Technician - Fixing Apple products and more.
 
 ♟️ Skills: Java, Spring, HTML, CSS, JavaScript, C#, React, Node.js, Docker, MySQL, MongoDB, Git, GitHub
 

@@ -1,8 +1,8 @@
 ### Hi there 👋, Im Ali
 
-📍 Location: Oakville, Ontario, Canada
+📍 Location: Doha, Qatar
 
-🎓 Studying: Computer Programming and Analysis @ George Brown College.
+🎓 Studying: BTech Software Engineering @ McMaster University.
 
 💼 Occupation: IT Repair Technician - Fixing Apple products and more.
 

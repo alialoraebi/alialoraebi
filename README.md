@@ -21,9 +21,9 @@ Connect with me:
 [LinkedIn](https://www.linkedin.com/in/ali-al-oraibi/)
 
 ### Stats:
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alialoraebi&theme=dark&hide_border=true)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alialoraebi&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alialoraebi&layout=compact&theme=radical)
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alialoraebi&theme=dark&hide_border=true)
